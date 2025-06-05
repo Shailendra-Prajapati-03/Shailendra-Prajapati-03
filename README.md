@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shailendra-Prajapati
 - 👀 I’m interested in ...**Gaming**
-- 🌱 I’m currently learning **Full stack developer**
+- 🌱 I’m currently Compeleted **Full stack developer**
 - 📫 How to reach me **shailendraprajapati640@gmail.com**
 - ⚡ Fun fact: ...
 
